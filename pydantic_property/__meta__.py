@@ -1,0 +1,6 @@
+name = 'pydantic_property'
+version = '0.0.1'
+description = 'Property descriptors for Pydantic'
+url = 'https://github.com/justengel/pydantic_property'
+author = 'Justin Engel'
+author_email = 'jtengel08@gmail.com'
